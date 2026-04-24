@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Cristian 👋
 
-<!--
-**tonymocanu97/tonymocanu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a .NET Full Stack Developer who enjoys building clean, well-structured 
+web applications - from REST APIs and clean architecture backends to 
+React frontends.
 
-Here are some ideas to get you started:
+🚀 **Current Projects:** CaloriePal - a gamified fitness and nutrition web app 
+(ASP.NET Core, Next.js, PostgreSQL). LifeSwap - a wellbeing mobile app 
+live on the App Store (React Native).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Stack:** C# · ASP.NET Core · React · EF Core · Azure · PostgreSQL · Docker
+
+📖 **Currently studying:** Clean Architecture, Design Patterns, and Azure 
+for mid-level .NET roles.
+
+💼 **Open to:** .NET Full Stack opportunities.
+
+📫 [LinkedIn](https://linkedin.com/in/cristian-mocanu97) · tonymocanu97@yahoo.com
