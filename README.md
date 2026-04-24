@@ -10,6 +10,6 @@ live on the App Store (React Native).
 
 🛠️ Stack: C# · ASP.NET Core · React · EF Core · Azure · PostgreSQL · Docker
 
-💼 Open to: .NET Full Stack opportunities.
+☕ Rituals: Fitness.
 
-📫 [LinkedIn](https://linkedin.com/in/cristian-mocanu97) · tonymocanu97@yahoo.com
+💼 Open to: .NET Full Stack opportunities.
