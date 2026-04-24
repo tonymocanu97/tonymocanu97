@@ -10,6 +10,6 @@ live on the App Store (React Native).
 
 🛠️ Stack: C# · ASP.NET Core · React · EF Core · Azure · PostgreSQL · Docker
 
-☕ Rituals: Fitness.
+⛹️ Rituals: Fitness.
 
 💼 Open to: .NET Full Stack opportunities.
