@@ -9,6 +9,6 @@ React frontends.
 
 🛠️ Stack: C# · ASP.NET Core · React · EF Core · Azure · PostgreSQL · Docker
 
-⛹️ Rituals: Fitness.
+⛹️ Rituals: Lifestyle.
 
 💼 Open to: .NET Full Stack opportunities.
